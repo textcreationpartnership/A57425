@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scholars winter garment: or, The garment of righteousness Wherein is declared the duty of every Christian both to God and man; being very necessary both for young and old to learn. With many good exhortations to every man, woman, and child to obey Gods holy will and commandement. Written by Tho. Robins, B. of D. a well-wisher to the Gospel of Jesus Christ.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57425</idno>
+            <idno type="STC">Wing R1658</idno>
+            <idno type="STC">ESTC R219699</idno>
+            <idno type="EEBO-CITATION">99831151</idno>
+            <idno type="PROQUEST">99831151</idno>
+            <idno type="VID">35614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35614)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scholars winter garment: or, The garment of righteousness Wherein is declared the duty of every Christian both to God and man; being very necessary both for young and old to learn. With many good exhortations to every man, woman, and child to obey Gods holy will and commandement. Written by Tho. Robins, B. of D. a well-wisher to the Gospel of Jesus Christ.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Passenger at the three Bibles on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. [3] reads: The scholars caviat.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35614:1" rendition="simple:additions"/>
+            <p>THE SCHOLARS Winter Garment: OR, The Garment of Righteouſneſs: Wherein is declared the duty of every Chriſtian both to God and Man; being very neceſſary both for young and old to learn. With many good Exhortations to every Man, Woman, and Child to obey Gods holy Will and Commandement.</p>
+            <p>Written by THO. ROBINS. B of D. A Well-wisher to the Goſpel of Jeſus Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Prov.</hi> 6. 21, 22, 23.</bibl>
+               <p>My Son, keep thy Fathers commandement, and forſake not the law of thy Mother: bind them continually upon thy heart, and tie them about thy neck, when thou goeſt, it shall lead thee, when thou ſleepeſt it shall keep thee, when thou awakeſt it shall talk with thee.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Paſſenger</hi> at the three Bibles on <hi>London-bridge.</hi> 1667.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:35614:2"/>
+            <pb facs="tcp:35614:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35614:3"/>
+            <pb facs="tcp:35614:3"/>
+            <head>THE Scholars CAVIAT.</head>
+            <l>YOu Scholars all that doth this Caviat view,</l>
+            <l>When you have read, You'l find nothing but's true;</l>
+            <l>Firſt God obey, and then thy Parents honour,</l>
+            <l>All that do ſo, fight under Chriſt our Bannar:</l>
+            <l>From needy men turn not thy face away,</l>
+            <l>Comfort the comfortleſs, faint not when thou doſt pray;</l>
+            <l>
+               <pb n="4" facs="tcp:35614:4"/>
+Be reverent always in company,</l>
+            <l>Hate idleneſs, much good doth come thereby,</l>
+            <l>Shun hateful pride, which is the root of evil,</l>
+            <l>And covetouſneſs which cometh from the Divel:</l>
+            <l>Learn this in time, time is a precious thing,</l>
+            <l>For rich, for poor, and all, for Begger, and for King,</l>
+            <l>Then learn in time, it will thee profit gain,</l>
+            <l>And heavenly joys, Chriſt will ſend thee for thy pain.</l>
+            <closer>
+               <signed>
+                  <hi>So I reſt, Yours in Love and duty,</hi> T. R. The Author.</signed> 
+               <dateline>
+                  <date>May 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="5" facs="tcp:35614:4"/>
+            <head>
+               <hi>Epheſ.</hi> 6. 1, <hi>and</hi> 2. <hi>Verſes. Children obey your Parents in the Lord, for this is right: Honour thy Father and Mother, which is the firſt commandement with promiſe.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Beloved Brethren, I would deſire you all, both young and old, rich and poor, or of what degrée ſoever you be, I ſay, I would have you to take notice what is here ſet down, which I hope is for the good of your ſalvation.</p>
+            <p>And firſt of all I would deſire every Child of God to make good uſe of what is declared unto you: and my firſt exhortation is to obedi<g ref="char:EOLhyphen"/>ence; and with the ſame words as the Apoſtle <hi>Paul</hi> ſpake to the <hi>Epheſians: Children obey your Parents in the Lord, for this is right,</hi> Epheſ<g ref="char:punc">▪</g> 6. 1. Here you ſée the obedience of Chriſtian<g ref="char:punc">▪</g>
+               <pb n="6" facs="tcp:35614:5"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne to another, is part of the firſt Commande<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent with promiſe, as in y<hi rend="sup">e</hi> firſt verſe of this Chapter: But indéed this is contrary to many <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens minds now adays, for there is many <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat will not indure to hear talk of obeying <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne another, no not ſo much as to ſuffer their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hildren to ſhow any duty to them: which we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay perceive that they ſtrive to bring them <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p quite contrary to the Commandements of God, and yet they do profeſs themſelves to be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervants of God: but how can we ſay with a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>afe conſcience that we be y<hi rend="sup">e</hi> ſervants of God, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen we deny his Commandements: nay, our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſobedience is not all, but our daily ſéeking <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o intice &amp; ſeduce others: for as we are taught <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y our parents, ſo we ſhall be apt to do: <hi>For <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rain up a child in the way he ſhould go, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen he is old he will not depart from it.</hi> And <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndéed we may ſée it ſo with us here now, for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is ſo many ancient people that is ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lindly led, as I may ſay, that they will ſuffer <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o child they have to ſhow them, nor to any o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her: and this is contrary to that Comman<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement of God, for as I told you before, look <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto <hi>Epheſ.</hi> 6. 2. and there's your aſſurance <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or it, in the words, for the words ſays there, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onour thy Father and Mother, which is the firſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommandement with prom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe?</hi> Nay, if you
+<pb n="7" facs="tcp:35614:5"/>
+do but read the third verſe of this Chapter, you may plainly underſtand the promiſe which is made unto all ſuch as do ſtrive to kéep this Commandment of Obedience, for there the Apoſtle tells us, why we ſhould be obedient; <hi>That it may be well with thee, and thou mayſt live long on the earth;</hi> and no doubt but that it will go well with every poor ſoul that doth ſtrive to kéep the Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <p>For as it is in <hi>Proverbs</hi> the ſecond, the firſt and ſecond verſes, <hi>My Son forget not my law, but let thy heart keep my Commandements: For length of days, and long life, and peace ſhall they add unto thee. Hear ye Children the in<g ref="char:EOLhyphen"/>ſtructions of a Father, and attend to know un<g ref="char:EOLhyphen"/>derſtanding; for I give you good Doctrine: Forſake you not my law, for I was my Fathers Son, tender and onely beloved in the ſight of my Mother:</hi> He taught me alſo, and ſaid unt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me, <hi>Let thine heart retain my words, keep my Commandements and live,</hi> Prov. 4. to the 4<g ref="char:punc">▪</g> verſe.</p>
+            <p>O that every one of us would but ſtrive t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kéep the Commandements of God, and t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearken to the good inſtructions of our goodl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> minded Teachers, and not to give our mind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to bearken to the inticements of every vai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="8" facs="tcp:35614:6"/>
+fellow which would ſeek night and day to de<g ref="char:EOLhyphen"/>lude you to difobedience towards God and man, as I may ſay: For he that ſtrives to counſel any man, woman, or child to diſobe<g ref="char:EOLhyphen"/>dience towards their Parents, they ſtrive to draw you away from Gods Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <p>But I deſire you all that be here preſent to have a care of ſuch people; and as the Apoſtle <hi>Paul</hi> exhorteth the <hi>Epheſians,</hi> ſo I deſire to ex<g ref="char:EOLhyphen"/>hort you all, <hi>Let no man deceive you with vain words, for becauſe of theſe thing cometh the wrath of God upon the Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldren of diſobedi<g ref="char:EOLhyphen"/>ence, be not ye therefore pertakers with them,</hi> Eph. 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6, 7. <hi>Know therefore in this thy day, and conſider in thine heart th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Lord he is God <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Heaven above, thou ſhalt keep therefore h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Statutes, and his Commandements, which I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommand thee this day,</hi> Deut. 4. 39, 40.</p>
+            <p>How can that man ſay he keeps Gods com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>andem<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, when he daily and hourly ſeeks <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o break them by being diſobedient both to God and man: for he that doth not obey his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arents. doth not over Gods Word: there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re I deſire every Chriſtian to conſider with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf, wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther it be be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter to obey the true <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord of God, or be led away with the fancy
+<pb n="9" facs="tcp:35614:6"/>
+of men: meaning ſuch as will give no obe<g ref="char:EOLhyphen"/>dience unto their Parents: For this I will aſſure you, that the diſobedience you carry towards your Parents, is a fore-runner, and a great ſign of your diſobeying God. For can a man obey God, and deny the two Doctrines of his word? no certainly no man c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n do it:</p>
+            <p>Indéed I muſt néeds tell you, that the diſo<g ref="char:EOLhyphen"/>bedience of a Chriſtian is more abomination to the Lord then many do take it to be, or elſe p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople would have a great deal of more care to obey his will, and to kéep his Commande<g ref="char:EOLhyphen"/>ments. I pray you look into the 27. of <hi>Deut.</hi> and there you ſhall ſee the curſe that is allot<g ref="char:EOLhyphen"/>ted for thoſe that are diſobedient to Father or Mother. For the Word ſaith there, <hi>Curſed be he that ſetteth light by his Father and Mother,</hi> Deut. 27. 16. I pray God that there be not too many now a days that deſerves this curſe: For certainly there is too many ſuch abroad that hath but little care of their Parents: Nay, I muſt needs tell the Pa<g ref="char:EOLhyphen"/>rents that hath ſuch children, that it is long of them, and not of their Children. For how ſhould a Child learn obedience, when they are brought up where it is not taught? how ſhould a ſcholl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:punc">▪</g>learn all languages,
+<pb n="10" facs="tcp:35614:7"/>
+that never hears no word but <hi>Engliſh;</hi> teach them that which is good, and they will learn it: for as the Text ſaith, <hi>train up a child in the way he ſhould go, and when he is old he will not depart from it.</hi>
+            </p>
+            <p>Oh happy is that man or woman, that hath ſo much grace in their hearts, as to bring up their children in the fear of God, and to learn them to know their duty towards God and man: For how ſhould they know their duty toward God, which they nev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſaw, when they will not ſhow no duty to their own Parents which they are daily withal: Therefore give ear a while unto me, and I will let you un<g ref="char:EOLhyphen"/>derſtand a little more concerning the ioy and comfort that belongs to the obedient child.</p>
+            <p>And then laſtly I ſhall by Gods aſſiſtance declare to you the torments which belongs to them which are diſobedient: for look but into the 28. Chap. of <hi>Deuteronomy,</hi> and begin at the firſt verſe and ſo on, I pray give your at<g ref="char:EOLhyphen"/>tention to it, and when you have heard it, the Lord of his mercy give you all grace to make good uſe of it.</p>
+            <p>And it ſhall come to paſs, <hi>If thou ſhalt hearken d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligently unto the voice of the Lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d thy God, to obſerve and do all his Commande<g ref="char:EOLhyphen"/>ments which I command thee this day? then the</hi>
+               <pb n="11" facs="tcp:35614:7"/>
+               <hi>Lord thy God will ſet thee above all Nations of the Earth, and all theſe bleſſings ſhall come on thee, and overtake thee: If thou hearken unto the voice of the Lord thy God, then bleſſed ſhalt thou be in the City, and bleſſed ſhalt thou be in the field, bleſſed ſhall be the fruits of thy body, and fruits of thy ground,</hi> Deut. 28. 1, to 5.</p>
+            <p>Nay, this is but ſmall to the bleſſings which is promiſed to them that ſtrive to be obedient and kéep his Commandements: For if thou wilt be pleaſed but to read this Chapter at thy leiſure, you will find a great many com<g ref="char:EOLhyphen"/>fortable bleſſings for thoſe that truely honour obedience, and do their indeavours to kéep Gods Commandements, which I pray God give us all grace ſo to do, truly I deſire at the hands of our gracious God, that he would put it into the hearts of every one of us to con<g ref="char:EOLhyphen"/>ſider how the Lord threatned the people for their ſins, as you may find in <hi>Iſaiah</hi> the third.</p>
+            <p>I pray you conſider with your ſelves, whi<g ref="char:EOLhyphen"/>ther you be not in the very ſame condition at this preſent day: <hi>For behold the Lord, the Lord of Hoſts doth take away from Jeruſalem and from Judah, the ſtay and the ſtaff, the whole ſtay of bread, and the whole ſtay of water. The mighty man, and the man of war, the Judge and the Prophet, and the Prudent, and the Ancient,</hi>
+               <pb n="12" facs="tcp:35614:8"/>
+               <hi>the Captain of fifty and the honourable man, and the Counſellor, and the cunning Artificer, and the eloquent Orator. And I will give children to be their princes, and Babes to rule over them. And the people shall be oppreſſed, every one by another, and every one by his Neighbour: the child shall behave himſelf proudly againſt the ancient, and the baſe againſt the honourable,</hi> Iſa. 3. 1, to 6. And as before, I ſay ſtill: I pray God that we be not almoſt under the ſame puniſhment as thoſe people was, for what ſin can we read of in Scripture, but that we are ſubject unto; Then how ſhould we think to go frée from the puniſhments which are ordained for thoſe ſins?</p>
+            <p>For when was there more crying out a<g ref="char:EOLhyphen"/>gainſt falſe decrées and unrighteous deal<g ref="char:EOLhyphen"/>ings then there is now adays? or when could you hear of more wrong done to the Widow and the Fatherleſs as there is now, and hath been this many a da<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: But I deſire every one that hath any hand in ſuch matters, to look into <hi>Iſa.</hi> 10. 1, and 2. verſes: there you may ſee the woe that is pronounced againſt theſe that oppreſs the Widow and the Fatherleſs<hi>:</hi> for there he ſaith, <hi>Wo unto them that decree unrighteous decrees, and that write grievouſneſs</hi>
+               <pb n="13" facs="tcp:35614:8"/>
+               <hi>which they have preſcribed: To turn aſide the needy from judgement, and to take away the right from the poor of my people, that Widows may be their prey, and that they may rob the Fa<g ref="char:EOLhyphen"/>therleſs.</hi> Iſaiah the 10. Chapter, the firſt and ſecond verſes.</p>
+            <p>But now a days we make no conſcience at all to wrong the Widow and the Fatherleſs, and to oppreſs the poor and needy.</p>
+            <p>No, no, I am afraid that there be too many that make a common practice to wrong the widow and fatherleſs: But the Lord of his mercy give every one more grace. <hi>For he that oppreſſeth the poor to increaſe his riches, and he that giveth to the rich, ſhall ſurely come to naught,</hi> Prov. 22. 16.</p>
+            <p>
+               <hi>He that giveth to the poor shall never lack: but he that hideth his eyes shall have many a curſe,</hi> Proverbs 8. 22. And too many there be that will turn away their faces from the poor, but you may ſée many that is ready to give to the rich,</p>
+            <p>But, alas my Brethen, you may ſee by this place of Scripture, that it is contrary
+<pb n="14" facs="tcp:35614:9"/>
+to Gods Comandements, which is a vile and terrible thing, for if we would but ſecretly examine our hearts and conſciences, and conſider with our ſelves, and we ſhall find that this precéeds from a diſobedient heart, and therefore we ſhould pray God to give us obedient hearts. Which I pray God give e<g ref="char:EOLhyphen"/>very one grace to conſider in time, and pray to the Lord night and day, that he ſpake not to us as he ſpake to the people in <hi>Iſa.</hi> 43. 22. and theſe be the words, <hi>But thou haſt not called upon me O Jacob, but thou haſt been weary of me, O Iſrael.</hi>
+            </p>
+            <p>Truly it is to be feared, the Lord hath a juſt cauſe to ſpeak the ſame words to us: For how can we ſay but that we are weary of him, when we will not ſtrive to kéep his Com<g ref="char:EOLhyphen"/>mandements? O let <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s turn unto the Lord, and he will look upon us with the eye of mercy<g ref="char:punc">▪</g> as in <hi>Iſa.</hi> 45. 22. <hi>Look upon me, and be ye ſaved all the ends of the earth: for I am God, and there is none elſe.</hi>
+            </p>
+            <p>Oh what a bleſſed and comfortable ſpéech was here ſpoken to poor ſinners, this was from the mouth of God, and not from man. O what a miſerable condition is this, that we ſhould be ſo ſtony-hearted one towards another, when we ſée the Lord ſo loving to us.</p>
+            <p>
+               <pb n="15" facs="tcp:35614:9"/>
+               <hi>Can a woman forget her ſucking Child, that ſhe ſhould have compaſſion on the Son of her womb? yea they may forget: yet I will not forget thee,</hi> Iſa. 49. 15. O what a comfortable ſpéech is this, if we would but conſider on them: for though it is poſſible for a woman to forget her Child which ſhe gives ſuck, yet the Lord ſays he will not forget a ſinner: Indéed if our hearts be not made of flint, theſe loving mer<g ref="char:EOLhyphen"/>cies of the Lord ſhewed to us, would mollifie and ſoften the flintieſt heart in the world. Oh my beloved, awake out of the deadly ſléep of ſin, and let us cry unto the Lord and ſay, <hi>Who is among us, that feareth the Lord God of Hoſts?</hi> Oh let us ſhake off thoſe old Rags of ſin, and ſtrive to cloath our ſelves with this winter Garment of righteouſneſs.</p>
+            <p>Oh it is warm clothing! Oh it is cloath<g ref="char:EOLhyphen"/>ing that will kéep warm both body and ſoul! Oh let us cry out. <hi>The Lord God will help me, therefore shall I not be confounded.</hi>
+            </p>
+            <p>Happy is that Chriſtian that hath ſo much confidence in the Lord: <hi>For the Lord deſireth not the death of a ſinner, but rathe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he would turn from his wicked<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs and live.</hi>
+            </p>
+            <p>I deſire every one of you which be her<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent to look into the eleventh Chapter o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jeremiah,</hi> beginning at the ſecond verſe, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="16" facs="tcp:35614:10"/>
+there you may hear how the Prophet pro<g ref="char:EOLhyphen"/>claimed Gods Covenant to the Iews, and how he re<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ked them for their diſodedience: I pray you take notice of it, <hi>curſed is the man that obeyeth not the word of this covenant;</hi> And I pray God this Nation wherein we live do not deſerve the ſame curſe: For I be<g ref="char:EOLhyphen"/>lieve no Nation under the Sun hath rebelled more againſt Gods commandements then we: and there is no way to eſcape his puniſh<g ref="char:EOLhyphen"/>ment but by prayer, and repentance, and turn unto the Lord, and call unto him for mercy: and as <hi>Job</hi> ſays, in <hi>Job</hi> 26. 5. <hi>Behold he is mighty in ſtrength, he preſerveth not the life of the wicked, but giveth right to the poo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> O here is comfort for poor ſinners, for the Text ſays, <hi>the Lord deſpiſeth no ſinner:</hi> but alas we are too prone to fall into ſin, as hatred, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nvying, and the like: but look into <hi>Job</hi> 34. and youl find that 'tis not fit to give angry words one towards another: for is it fit to ſay to the King, thou art wicked, <hi>much leſs to him that accepteth not the perſon of Princes, no nor the rich more then the poor, for they are all the works of his hands?</hi> Here we may perceive that we ought not to revile one another, either poor or rich, King or Magiſtrate, for as <hi>Dav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> ſays in the 36. <hi>Pſalm,</hi> about the 2, 3.
+<pb n="17" facs="tcp:35614:10" rendition="simple:additions"/>
+               <hi>He flatters himſelf in his own eyes until his wick<g ref="char:EOLhyphen"/>edneſs be found hateful: the words of his mouth are in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quity and deceit, &amp;c.</hi> And <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndéed there is too many that deviſeth miſchief night and day, but the Lord give us all more grace, and to call upon him for mercy. And as <hi>David</hi> ſays in <hi>Pſalm</hi> 3. <hi>Let us all cry, bleſs the Lord, oh my ſoul, and forget not all his benefits, who forgiveth all thine iniquities, &amp;c.</hi> and in <hi>Pſa.</hi> 10. he tells us, <hi>like as a Father pittieth his child, ſo the Lord pittieth all them that fear him.</hi> Here you may ſée the Lord doth promiſe very much to poor ſinners, if ſo they would but ſtrive to kéep his Commandements, which the Lord of his mercy give us all grace ſo to do. And ſo much concerning the obedi<g ref="char:EOLhyphen"/>ence of a Chriſtian: and as I have ſhewed you the joys and benefits of thoſe that obey God and their Parents: ſo I have declared the torments of the diſobedient: So I pray God give us all grace to be obedient to him, to our Parents, Prince, and Governours: and ſo I conclude with this ſhort Exhortation, out of <hi>Prov.</hi> 3. 1, 2, 3, 4. Read at your leiſure, <hi>So the grace of our Lord Jeſus Chriſt be with you all, bleſs, guide, and keep you all, this day, and for ever more, Amen.</hi>
+            </p>
+         </div>
+         <div n="2" type="part">
+            <pb n="18" facs="tcp:35614:11"/>
+            <head>The Second part.</head>
+            <p>THe ſecond Part of this Book, doth teach young Schollars their duty to all ſorts of people.</p>
+            <p>Firſt, thoſe Schollars that deſire to ſerve God, muſt every morning prepare their hearts to put on this Winter Garment of fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, and ſtrive to ſhake off the old rags of ſin, which muſt be done by faithful prayer.</p>
+            <p>Firſt, down on thy knées every morning, and pray to the Lord to give a bleſſing to thy up-riſing, and to thy down-lying, to thy going out, and to thy comming in; and when thou haſt done ſo, down on thy knées to thy parents, and deſire them to pray to God to give you a bleſſing: and no queſtion but the Lord will bleſs ſuch children which be obedient to him, and their Parents; For as <hi>Solomon</hi> ſaith, in <hi>Prov.</hi> 4. 4. <hi>Hear ye children the inſtructions of a Father, and attend to know underſtanding:</hi> and in <hi>chap.</hi> 6. there he ſaith, <hi>My Son, keep thou thy Fathers commandement, and forget not the law of thy Mother.</hi>
+            </p>
+            <p>So I deſire all you that be Schollars, that either reads it, or hears it read, let it be a good inſtruction for you all, in the firſt place to
+<pb n="19" facs="tcp:35614:11"/>
+learn to ſerve God: ſecondly, to give honour and obedience to thy Parents: thirdly, let not thy heart over-ſlip thée with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nvy and ha<g ref="char:EOLhyphen"/>tred towards thy Neighbour; but be always ready with diligence to do any thing for them which lyeth in thy power to do; not wrong<g ref="char:EOLhyphen"/>ing thy Parents nor thy ſelf. The duty of a Scholar is, if thou méet any man or woman in the ſtréet, thou art to carry thy ſelf very ci<g ref="char:EOLhyphen"/>villy, to put off thy hat, and to give them the time of the day, for in ſo doing thou ſheweſt thy bréeding: more-over there will be ſome ſign of grace in thy old age, for as y<hi rend="sup">e</hi> Scripture ſaith, <hi>Train up a child in the way he ſhould go and when he is old he will not depart from it.</hi> And I pray God give every child grace to lead his life in his youth, that he may have joy and comfort both in this world, and in the world to come without end, <hi>Amen.</hi>
+            </p>
+            <p>A ſhort Prayer for every Schollar to learn every morning before he goes to School, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beginneth any labour, then after this y<hi rend="sup">e</hi> Lord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayer.</p>
+            <floatingText xml:lang="eng" type="prayer">
+               <body>
+                  <head>A Prayer for the morning.</head>
+                  <p>O Moſt gracious Lord God; thou that ſitte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon thy throne, and ſeeſt into all the co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ners
+<pb n="20" facs="tcp:35614:12"/>
+of the World; thou mad'ſt the heaven and the earth, and all things belonging thereto: thou art a God of mercy, thou art a God of favour and love; and even ſo thou art a God of juſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce and wrath, yet ſlow to anger, or elſe what would become of poor ſinners; O Lord, I do give thee humble and hearty thanks for this good bleſſing which thou haſt beſtowed upon me this night paſt, in giving me ſuch quiet reſt and ſleep; O Lord I confeſs thou mighteſt have made my bed of eaſe a bed of death: But O Lord, ſeeing it hath pleaſed thee to preſerve my life a little lon<g ref="char:EOLhyphen"/>ger: ſo O Lord I do deſire thee out of thy ten<g ref="char:EOLhyphen"/>der mercy to give me this day, a heart of true Repent<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce, that I may truely repent me of my ſins, and lament for all my tranſgreſſions. O God thou knoweſt the fleſh of man is weak and frail, yet we know thou art able to put ſtrength into the weakeſt ſoul: therefore I beſeech thee out of thy tender mercy for to ſtrengthen my faith; put grace and wiſdome into my heart, that I may do nothing but what is pleaſing to thy ſight. And gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt O moſt merciful Father, that whatſoever. I ſhall think, or ſpeak, or take in hand, it may tend to thy glory the good of my friends and neigh<g ref="char:EOLhyphen"/>bours<g ref="char:punc">▪</g> and for the joy and comfort of my poor ſoul, and that for thy Son, our Lord and Saviours ſake, I will farther call upon thee, in that moſt
+<pb n="21" facs="tcp:35614:12"/>
+holy and perfect prayer which thou taught thy Diſciples, in that holy place of Scripture, <hi>Mat.</hi> 6. 9. where he ſaid to his Diſciple, <hi>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> you pray, pray thus, ſaying,</hi> Our Father, &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Laſtly, when thou haſt ſpent the day, call into thy mind how thou haſt ſpent it; and if thou haſt done any thing which thy conſci<g ref="char:EOLhyphen"/>ence telleth thée is not right, then fall on thy knées, and deſire the Lord to forgive thée, and that with a true heart, and then no doubt but the Lord will hear thy prayers.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="prayer">
+               <body>
+                  <head>A ſhort Prayer for the Evening.</head>
+                  <p>O Lord God, Heavenly Father, I beſeech thee hear my prayer, and let my cry come unto thee, conſider my prayer, O Lord my God, lighten thou mine eyes, leſt I ſleep the ſleep of death, and ſo be utterly loſt: I cannot but confeſs I have ſinned againſt thee: but O Lord I know thou art merciful, and will ſhew mercy to all ſuch as will conſeſs their faults, and truely repent them of their ſins, and ſtrive to forſake their wicked ways, and turn to the Lord and live: therefore turn me O Lord, and I ſhall be turned: make me to know the way to righteouſneſs, and give me thy ſpiritual grace, that I may flye from the way of
+<pb n="22" facs="tcp:35614:13"/>
+the wicked, and turn unto thee for ſalvation: O Lord my God, and my redeemer; and as it hath pleaſed thee to give me this day liberty to follow my calling which thou haſt called me unto, ſo O Lord I beſeech thee to give me thy favour and countenance this night, ſet thou a guard of An<g ref="char:EOLhyphen"/>gels about me, that no evil ſpirit have power to entice my poor weak and ſinful ſoul, that by thy power and protection I may take quiet ſleep, and reſt under the ſhadow of thy wings, that when I ſleep, I may not ſleep unto death, but ſleep unto life everlaſting, and all for thy Son our Lord and Saviour, in his words I pray farther, ſaying:</p>
+                  <p>
+                     <hi>Our Father which art in heaven, hallowed be thy Name, thy Kingdom come, thy will be done on earth as it is in heaven, give us this day, our daily bread, and forgive us our treſ<g ref="char:EOLhyphen"/>paſſes, as we forgive them that treſpaſs a<g ref="char:EOLhyphen"/>gainſt us, and lead us not into temptation, but deliver us from evil,</hi> Amen.</p>
+               </body>
+            </floatingText>
+            <closer>
+               <signed>So I remain your faithful Servant in Chriſt Jeſus, <hi>Tho. Robins.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35614:13"/>
+            <head>Theſe books following be<g ref="char:EOLhyphen"/>ing of a ſmall Price, are printed for <hi>Tho. Paſſenger,</hi> at the three Bibles on the middle of London-bridge.</head>
+            <p>THe chriſtians Combate, or his true ſpiritual Warfare, by <hi>C. Love,</hi> late Preacher of the Word in the City of <hi>London.</hi>
+            </p>
+            <p>The wiſe Merchant or the pearl of price, by <hi>T. Calvert,</hi> Miniſter in <hi>York.</hi>
+            </p>
+            <p>The Book of Graces, with prayers for Mor<g ref="char:EOLhyphen"/>ning and Evening: Theſe are all but three pence a peice.</p>
+            <p>The ſinners warning peice, or Heavens Meſ<g ref="char:EOLhyphen"/>ſengers, by <hi>T. Robins,</hi> B. of D.</p>
+            <p>Mans chief guide to Salvation, by <hi>T. Robins,</hi> B. of D.</p>
+            <p>A Wonder of Wonders, or Gods people, the Worlds wonder, by <hi>R. Hough,</hi> a lover of the truth.</p>
+            <p>
+               <pb facs="tcp:35614:14"/>
+Englands golden Legacy, or a brief deſcripti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the manifold mercies the Lord hath be<g ref="char:EOLhyphen"/>ſtowed upo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his ſinful Nation.</p>
+            <p>Gods meſſage from Heaven, to ſinners on Earth, by <hi>T. P.</hi> B. of L.</p>
+            <p>Chriſt upon the croſs, ſuffering for poor Sinners.</p>
+            <p>Gods call to unconverted ſinners, to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn from their ſins and repent, a very uſeful and comfor<g ref="char:EOLhyphen"/>tab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e book.</p>
+            <p>Now or Never.</p>
+            <p>School of Learning.</p>
+            <p>Door of Salvation.</p>
+            <p>Englands ſorrow, for Londons miſery.</p>
+            <p>Theſe Eleven laſt are but two pence a peice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35614:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
